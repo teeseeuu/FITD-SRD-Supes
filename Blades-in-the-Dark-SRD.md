@@ -2,7 +2,7 @@
 
 ## The Game
 
-*Blades in the Dark* is a game about a group of daring characters building an enterprising crew. We play to find out if the fledgling crew can thrive amidst the teeming threats that surround it.
+*Capes in the Dark* is a game about a group of daring characters building an enterprising crew. We play to find out if the fledgling crew can thrive amidst the teeming threats that surround it.
 
 ## The Players
 
@@ -26,7 +26,7 @@ The GM helps organize the conversation of the game so it's pointed toward the in
 
 ## Playing A Session
 
-A session of *Blades in the Dark* is like an episode of a TV show. There are one or two main events, plus maybe some side-story elements, which all fit into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
+A session of *Capes in the Dark* is like an episode of a TV show. There are one or two main events, plus maybe some side-story elements, which all fit into an ongoing series. A session of play can last anywhere from two to six hours, depending on the preferences of the group.
 
 During a session, the crew of scoundrels works together to choose a score to accomplish, then they make a few dice rolls to jump into the action of the score in progress. The PCs take actions, suffer consequences, and finish the operation (succeed or fail). Then the crew has downtime, during which they recover, pursue side-projects, and indulge their vices. After downtime, the players once again look for a new opportunity or create their own goals and pursuits, and we play to find out what happens next.
 
@@ -44,7 +44,7 @@ When you play, you'll make several key judgment calls. Everyone contributes, but
 
 ## Rolling the Dice
 
-*Blades in the Dark* uses six-sided dice. You roll several at once and read the **single highest result**.
+*Capes in the Dark* uses six-sided dice. You roll several at once and read the **single highest result**.
 
 * If the highest die is a **6**, it's a **full success**—things go well. If you roll more than one **6**, it's a **critical success**—you gain some additional advantage.
 * If the highest die is a **4 or 5**, that's a **partial success**—you do what you were trying to do, but there are consequences: trouble, harm, reduced effect, etc.
@@ -54,7 +54,7 @@ When you play, you'll make several key judgment calls. Everyone contributes, but
 
 All the dice systems in the game are expressions of this basic format. When you're first learning the game, you can always "collapse" back down to a simple roll to judge how things go. Look up the exact rule later when you have time.
 
-To create a dice pool for a roll, you'll use a **trait** (like your **Finesse** or your **Prowess** or your crew's Tier) and take dice equal to its **rating**. You'll usually end up with one to four dice. Even one die is pretty good in this game—a 50% chance of success. The most common traits you'll use are the **action ratings** of the player characters. A player might roll dice for their **Skirmish** action rating when they fight an enemy, for example.
+To create a dice pool for a roll, you'll use a **trait** (like your **Evade** or your **Tough** or your crew's Tier) and take dice equal to its **rating**. You'll usually end up with one to four dice. Even one die is pretty good in this game—a 50% chance of success. The most common traits you'll use are the **action ratings** of the player characters. A player might roll dice for their **Combat** action rating when they fight an enemy, for example.
 
 There are four types of rolls that you'll use most often in the game:
 
@@ -65,7 +65,7 @@ There are four types of rolls that you'll use most often in the game:
 
 ## The Game Structure
 
-*Blades in the Dark* has a structure to play, with four parts. By default, the game is in **free play**—characters talk to each other, they go places, they do things, they make rolls as needed.
+*Capes in the Dark* has a structure to play, with four parts. By default, the game is in **free play**—characters talk to each other, they go places, they do things, they make rolls as needed.
 
 When the group is ready, they choose a *target* for their next operation, then choose a type of *plan* to employ. This triggers the *engagement roll* (which establishes the situation as the operation starts) and then the game shifts into the **score** phase.
 
@@ -81,20 +81,20 @@ The phases are a conceptual model to help you organize the game. They're not mea
 
 There are 12 **actions** in the game that the player characters use to overcome obstacles.
 
-* Attune
-* Command
-* Consort
-* Finesse
-* Hunt
-* Prowl
-* Skirmish
-* Study
-* Survey
-* Sway
-* Tinker
-* Wreck
+* Channel
+* Lead
+* Negotiate
+* Evade
+* Track
+* Infiltrate
+* Combat
+* Analyze
+* Observe
+* Persuade
+* Engineer
+* Smash
 
-Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don't just represent skill or training—you're free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at **Command** because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
+Each action has a rating (from zero to 4) that tells you how many dice to roll when you perform that action. Action ratings don't just represent skill or training—you're free to describe *how* your character performs that action based on the type of person they are. Maybe your character is good at **Lead** because they have a scary stillness to them, while another character barks orders and intimidates people with their military bearing.
 
 You choose which action to perform to overcome an obstacle, by describing what your character does. Actions that are poorly suited to the situation may be less effective and may put the character in more danger, but they can still be attempted. Usually, when you perform an action, you'll make an **action roll** to see how it turns out.
 
@@ -106,15 +106,15 @@ If there's no danger or trouble at hand, you don't make an action roll. You migh
 
 ## Attribute Ratings
 
-There are three **attributes** in the game system that the player characters use to resist bad consequences: **Insight**, **Prowess**, and **Resolve**. Each attribute has a rating (from zero to 4) that tells you how many dice to roll when you use that attribute.
+There are three **attributes** in the game system that the player characters use to resist bad consequences: **Sharp**, **Tough**, and **Quick**. Each attribute has a rating (from zero to 4) that tells you how many dice to roll when you use that attribute.
 
 The rating for each attribute is equal to the number of dots in the **first column** under that attribute (see the examples, at right). The more well-rounded your character is with a particular set of actions, the better their attribute rating.
 
 ## Resistance Roll
 
-Each attribute resists a different type of danger. If you get stabbed, for example, you resist physical harm with your **Prowess** rating. Resistance rolls always succeed—you diminish or deflect the bad result—but the better your roll, the less **stress** it costs to reduce or avoid the danger.
+Each attribute resists a different type of danger. If you get stabbed, for example, you resist physical harm with your **Tough** rating. Resistance rolls always succeed—you diminish or deflect the bad result—but the better your roll, the less **stress** it costs to reduce or avoid the danger.
 
-When the enemy has a big advantage, you'll need to make a resistance roll before you can take your own action. For example, when you duel the master sword-fighter, she disarms you before you can strike. You need to make a resistance roll to keep hold of your blade if you want to attack her. Or perhaps you face a powerful ghost and attempt to **Attune** with it to control its actions. But before you can make your own roll, you must resist possession from the spirit.
+When the enemy has a big advantage, you'll need to make a resistance roll before you can take your own action. For example, when you duel the master sword-fighter, she disarms you before you can strike. You need to make a resistance roll to keep hold of your blade if you want to attack her. Or perhaps you face a powerful ghost and attempt to **Channel** with it to control its actions. But before you can make your own roll, you must resist possession from the spirit.
 
 The GM judges the threat level of the enemies and uses these "preemptive" resistance rolls as needed to reflect the capabilities of especially dangerous foes.
 
@@ -122,98 +122,98 @@ The GM judges the threat level of the enemies and uses these "preemptive" resist
 
 ### EXAMPLE ACTION & ATTRIBUTE RATINGS
 
-#### **Insight**
+#### **Sharp**
 
 |   []()   |     |          |          |          |            |
 | :------: | --- | :------: | :------: | :------: | :--------- |
-| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Hunt**   |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Study**  |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Survey** |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Tinker** |
+| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Track**   |
+| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Analyze**  |
+| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Negotiate** |
+| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Engineer** |
 
-This character has a **Hunt** action rating of 1.  Their **Insight** attribute rating is 1 (the first column of dots).
+This character has a **Track** action rating of 1.  Their **Sharp** attribute rating is 1 (the first column of dots).
 
-#### **Prowess**
+#### **Tough**
 
 |   []()   |     |          |          |          |              |
 | :------: | --- | :------: | :------: | :------: | :----------- |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Finesse**  |
-| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Prowl**    |
-| &#x25CF; |     | &#x25CF; | &#x25CB; | &#x25CB; | **Skirmish** |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Wreck**    |
+| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Channel**  |
+| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Lead**    |
+| &#x25CF; |     | &#x25CF; | &#x25CB; | &#x25CB; | **Combat** |
+| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Smash**    |
 
-They also have **Prowl** 1 and **Skirmish** 2.  Their **Prowess** attribute rating is 2.
+They also have **Lead** 1 and **Combat** 2.  Their **Tough** attribute rating is 2.
 
-#### **Resolve**
+#### **Quick**
 
 |   []()   |     |          |          |          |             |
 | :------: | --- | :------: | :------: | :------: | :---------- |
-| &#x25CF; |     | &#x25CF; | &#x25CB; | &#x25CB; | **Attune**  |
-| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Command** |
-| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Consort** |
-| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Sway**    |
+| &#x25CF; |     | &#x25CF; | &#x25CB; | &#x25CB; | **Observe**  |
+| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Evade** |
+| &#x25CB; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Infiltrate** |
+| &#x25CF; |     | &#x25CB; | &#x25CB; | &#x25CB; | **Persuade**    |
 
 ---
 
 ## Actions
 
-When you **Attune**, you open your mind to arcane power.
+When you **Channel**, you open your mind to arcane power.
 
-*You might communicate with a ghost. You could try to perceive beyond sight in order to better understand your situation (but Surveying might be better).*
+*You might communicate with a ghost. You could try to perceive beyond sight in order to better understand your situation (but Observeing might be better).*
 
-When you **Command**, you compel swift obedience.
+When you **Lead**, you compel swift obedience.
 
-*You might intimidate or threaten to get what you want. You might lead a gang in a group action. You could try to order people around to persuade them (but Consorting might be better).*
+*You might intimidate or threaten to get what you want. You might lead a gang in a group action. You could try to order people around to persuade them (but Negotiateing might be better).*
 
-When you **Consort**, you socialize with friends and contacts.
+When you **Negotiate**, you socialize with friends and contacts.
 
-*You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your heritage or background. You could try to manipulate your friends with social pressure (but Sway might be better).*
+*You might gain access to resources, information, people, or places. You might make a good impression or win someone over with your charm and style. You might make new friends or connect with your heritage or background. You could try to manipulate your friends with social pressure (but Persuade might be better).*
 
-When you **Finesse**, you employ dextrous manipulation or subtle misdirection.
+When you **Evade**, you employ dextrous manipulation or subtle misdirection.
 
-*You might pick someone's pocket. You might handle the controls of a vehicle or direct a mount. You might formally duel an opponent with graceful fighting arts. You could try to employ those arts in a chaotic melee (but Skirmishing might be better). You could try to pick a lock (but Tinkering might be better).*
+*You might pick someone's pocket. You might handle the controls of a vehicle or direct a mount. You might formally duel an opponent with graceful fighting arts. You could try to employ those arts in a chaotic melee (but Combating might be better). You could try to pick a lock (but Engineering might be better).*
 
-When you **Hunt**, you carefully track a target.
+When you **Track**, you carefully track a target.
 
-*You might follow a target or discover their location. You might arrange an ambush. You might attack with precision shooting from a distance. You could try to bring your guns to bear in a melee (but Skirmishing might be better).*
+*You might follow a target or discover their location. You might arrange an ambush. You might attack with precision shooting from a distance. You could try to bring your guns to bear in a melee (but Combating might be better).*
 
-When you **Prowl**, you traverse skillfully and quietly.
+When you **Infiltrate**, you traverse skillfully and quietly.
 
-*You might sneak past a guard or hide in the shadows. You might run and leap across the rooftops. You might attack someone from hiding with a back-stab or blackjack. You could try to waylay a victim in the midst of battle (but Skirmishing might be better).*
+*You might sneak past a guard or hide in the shadows. You might run and leap across the rooftops. You might attack someone from hiding with a back-stab or blackjack. You could try to waylay a victim in the midst of battle (but Combating might be better).*
 
-When you **Skirmish**, you entangle a target in close combat so they can't easily escape.
+When you **Combat**, you entangle a target in close combat so they can't easily escape.
 
 *You might brawl or wrestle with them. You might hack and slash. You might seize or hold a position in battle. You could try to fight in a formal duel (but Finessing might be better).*
 
-When you **Study**, you scrutinize details and interpret evidence.
+When you **Analyze**, you scrutinize details and interpret evidence.
 
-*You might gather information from documents, newspapers, and books. You might do research on an esoteric topic. You might closely analyze a person to detect lies or true feelings. You could try to examine events to understand a pressing situation (but Surveying might be better).*
+*You might gather information from documents, newspapers, and books. You might do research on an esoteric topic. You might closely analyze a person to detect lies or true feelings. You could try to examine events to understand a pressing situation (but Observeing might be better).*
 
-When you **Survey**, you observe the situation and anticipate outcomes.
+When you **Observe**, you observe the situation and anticipate outcomes.
 
-*You might spot telltale signs of trouble before it happens. You might uncover opportunities or weaknesses. You might detect a person's motivations or intentions. You could try to spot a good ambush point (but Hunting might be better).*
+*You might spot telltale signs of trouble before it happens. You might uncover opportunities or weaknesses. You might detect a person's motivations or intentions. You could try to spot a good ambush point (but Tracking might be better).*
 
-When you **Sway**, you influence with guile, charm, or argument.
+When you **Persuade**, you influence with guile, charm, or argument.
 
-*You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but Consorting or Commanding might be better).*
+*You might lie convincingly. You might persuade someone to do what you want. You might argue a compelling case that leaves no clear rebuttal. You could try to trick people into affection or obedience (but Negotiateing or Leading might be better).*
 
-When you **Tinker**, you fiddle with devices and mechanisms.
+When you **Engineer**, you fiddle with devices and mechanisms.
 
 *You might create a new gadget or alter an existing item. You might pick a lock or crack a safe. You might disable an alarm or trap. You might turn the clockwork and electroplasmic devices around the city to your advantage. You could try to use your technical expertise to control a vehicle (but Finessing might be better).*
 
-When you **Wreck**, you unleash savage force.
+When you **Smash**, you unleash savage force.
 
-*You might smash down a door or wall with a sledgehammer, or use an explosive to do the same. You might employ chaos or sabotage to create a distraction or overcome an obstacle. You could try to overwhelm an enemy with sheer force in battle (but Skirmishing might be better).*
+*You might smash down a door or wall with a sledgehammer, or use an explosive to do the same. You might employ chaos or sabotage to create a distraction or overcome an obstacle. You could try to overwhelm an enemy with sheer force in battle (but Combating might be better).*
 
-As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to **Wreck** someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, **Skirmish** *might* be better (less risky or more effective), depending on the situation at hand (sometimes it won't be better).
+As you can see, many actions overlap with others. This is by design. As a player, you get to choose which action you roll, by saying what your character does. Can you try to **Smash** someone during a fight? Sure! The GM tells you the position and effect level of your action in this circumstance. As it says, **Combat** *might* be better (less risky or more effective), depending on the situation at hand (sometimes it won't be better).
 
 # Stress & Trauma
 
 ## Stress
 
-Player characters in *Blades in the Dark* have a special reserve called **stress**. When they suffer a consequence that they don't want to accept, they can take stress instead. The result of the **resistance roll** determines how much stress it costs to avoid a bad outcome.
+Player characters in *Capes in the Dark* have a special reserve called **stress**. When they suffer a consequence that they don't want to accept, they can take stress instead. The result of the **resistance roll** determines how much stress it costs to avoid a bad outcome.
 
-*During a knife fight, Daniel's character, Cross, gets stabbed in the chest. Daniel rolls his **Prowess** rating to resist, and gets a **2**. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives.*
+*During a knife fight, Daniel's character, Cross, gets stabbed in the chest. Daniel rolls his **Tough** rating to resist, and gets a **2**. It costs 6 stress, minus 2 (the result of the resistance roll) to resist the consequences. Daniel marks off 4 stress and describes how Cross survives.*
 
 *The GM rules that the harm is reduced by the resistance roll, but not avoided entirely. Cross suffers level 2 harm ("Chest Wound") instead of level 3 harm ("Punctured Lung").*
 
@@ -325,7 +325,7 @@ Your goal is the concrete outcome your character will achieve when they overcome
 
 ## 2. The Player Chooses the Action Rating
 
-The player chooses which **action rating** to roll, following from what their character is doing on-screen. If you want to roll your **Skirmish** action, then get in a fight. If you want to roll your **Command** action, then order someone around. You can't roll a given action rating unless your character is presently performing that action in the fiction.
+The player chooses which **action rating** to roll, following from what their character is doing on-screen. If you want to roll your **Combat** action, then get in a fight. If you want to roll your **Lead** action, then order someone around. You can't roll a given action rating unless your character is presently performing that action in the fiction.
 
 ## 3. The GM Sets the Position
 
@@ -337,7 +337,7 @@ Once the player chooses their action, the GM sets the **position** for the roll.
 
 The GM assesses the likely **effect level** of this action, given the factors of the situation. Essentially, the effect level tells us "how much" this action can accomplish: will it have **limited**, **standard**, or **great** effect?
 
-*The GM's choices for effect level and position can be strongly influenced by the player's choice of action rating. If a player wants to try to make a new friend by **Wrecking** something—well... maybe that's possible, but the GM wouldn't be crazy to say it's a desperate roll and probably limited effect. Seems like **Consorting** would be a lot better for that. The players are always free to choose the action they perform, but that doesn't mean all actions should be equally risky or potent.*
+*The GM's choices for effect level and position can be strongly influenced by the player's choice of action rating. If a player wants to try to make a new friend by **Smashing** something—well... maybe that's possible, but the GM wouldn't be crazy to say it's a desperate roll and probably limited effect. Seems like **Negotiateing** would be a lot better for that. The players are always free to choose the action they perform, but that doesn't mean all actions should be equally risky or potent.*
 
 ## 5. Add Bonus Dice
 
@@ -435,7 +435,7 @@ Since NPCs don't roll for their actions, an action roll does double-duty: **it r
 
 # Effect
 
-In *Blades in the Dark*, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand -- **great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you're using a **progress clock**.
+In *Capes in the Dark*, you achieve goals by taking actions and facing consequences. But how many actions does it take to achieve a particular goal? That depends on the **effect level** of your actions. The GM judges the effect level using the profiles below. Which one best matches the action at hand -- **great**, **standard**, or **limited**? Each effect level indicates the questions that should be answered for that effect, as well as how many segments to tick if you're using a **progress clock**.
 
 | Effect Levels |                                                                                                                  | Ticks |
 | ------------: | :--------------------------------------------------------------------------------------------------------------- | :---: |
@@ -475,9 +475,9 @@ After factors are considered and the GM has announced the effect level, a player
 
 This kind of trade-off isn't included in the effect factors because it's not an element the GM should assess when setting the effect level. Once the level is set, though, you can always offer the trade-off to the player if it makes sense in the situation.
 
-*"I Prowl across the courtyard and vault over the wall, hiding in the shadows by the canal dock and gondola."*
+*"I Infiltrate across the courtyard and vault over the wall, hiding in the shadows by the canal dock and gondola."*
 
-*"I don't think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let's say you can get halfway across with this action, then you'll have to Prowl through the other half of the space (and the rest of the guards there) to reach the other side."*
+*"I don't think you can make it across in one quick dash. The scale of the courtyard is a factor here, so your effect will be limited. Let's say you can get halfway across with this action, then you'll have to Infiltrate through the other half of the space (and the rest of the guards there) to reach the other side."*
 
 *"I didn't realize it was that far. Hmmm. Okay, what if I just go as fast as I can. Can I get all the way across if I make a desperate roll?"*
 
@@ -495,7 +495,7 @@ The ability to set position and effect as independent variables gives you nine c
 
 *For example, if a character is facing off alone against a small enemy gang, the situation might be:*
 
-* *She fights the gang straight up, rushing into their midst, hacking away in a wild ***Skirmish***. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
+* *She fights the gang straight up, rushing into their midst, hacking away in a wild ***Combat***. In this case, being threatened by the larger force lowers her position to indicate greater risk, and the scale of the gang reduces her effect (Desperate / Limited).*
 * *She fights the gang from a choke-point, like a narrow alleyway where their numbers can't overwhelm her at once. She's not threatened by several at once, so her risk is similar to a one-on-one fight, but there's still a lot of enemies to deal with, so her effect is reduced (Risky / Limited).*
 * *She doesn't fight the gang, instead trying to maneuver her way past them and escape. She's still under threat from many enemy attacks, so her position is worse, but if the ground is open and the gang can't easily corral her, then her effect for escaping isn't reduced (Desperate / Standard). If she had some immediate means of escape (like leaping onto a speeding carriage), then her effect might even be increased (Desperate / Great).*
 * *The gang isn't aware of her yet—she's set up in a sniper position on a nearby roof. She takes a shot against one of them. Their greater numbers aren't a factor, so her effect isn't reduced, and she's not immediately in any danger (Controlled / Great). Maybe instead she wants to fire off a salvo of suppressing fire against the whole gang, in which case their scale applies (Controlled / Limited). If the gang is on guard for potential trouble, her position is more dangerous (Risky / Great). If the gang is alerted to a sniper, then the effect may be reduced further, as they scatter and take cover (Risky / Limited). If the gang is able to muster covering fire while they fall back to a safe position, then things are even worse for our scoundrel (Desperate / Limited).*
@@ -522,7 +522,7 @@ A **serious complication** is more severe: reinforcements surround and trap you,
 
 ## Lost Opportunity
 
-This consequence represents shifting circumstance. You had an opportunity to achieve your goal with this action, but it slips away. To try again, you need a new approach—usually a new form of action or a change in circumstances. Maybe you tried to **Skirmish** with the noble to trap her on the balcony, but she evades your maneuver and leaps out of reach. If you want to trap her now you'll have to try another way—maybe by **Swaying** her with your roguish charm.
+This consequence represents shifting circumstance. You had an opportunity to achieve your goal with this action, but it slips away. To try again, you need a new approach—usually a new form of action or a change in circumstances. Maybe you tried to **Combat** with the noble to trap her on the balcony, but she evades your maneuver and leaps out of reach. If you want to trap her now you'll have to try another way—maybe by **Persuadeing** her with your roguish charm.
 
 ## Worse Position
 
@@ -560,21 +560,21 @@ If you need to mark a harm level, but the row is already filled, the harm moves 
 
 **Lesser (1)**: *Battered, Drained, Distracted, Scared, Confused.*
 
-Harm like "Drained" or "Exhausted" can be a good fallback consequence if there's nothing else threatening a PC (like when they spend all night **Studying** those old books, looking for any clues to their enemy's weaknesses before he strikes).
+Harm like "Drained" or "Exhausted" can be a good fallback consequence if there's nothing else threatening a PC (like when they spend all night **Analyzeing** those old books, looking for any clues to their enemy's weaknesses before he strikes).
 
 # Resistance and Armor
 
 When your PC suffers a consequence that you don't like, you can choose to resist it. Just tell the GM, "No, I don't think so. I'm resisting that." Resistance is always automatically effective—the GM will tell you if the consequence is reduced in severity or if you avoid it entirely. Then, you'll make a **resistance roll** to see how much stress your character suffers as a result of their resistance.
 
-You make the roll using one of your character's **attributes** (**Insight**, **Prowess**, or **Resolve**). The GM chooses the attribute, based on the nature of consequences:
+You make the roll using one of your character's **attributes** (**Sharp**, **Tough**, or **Quick**). The GM chooses the attribute, based on the nature of consequences:
 
-* **Insight**: Consequences from deception or understanding.
-* **Prowess**: Consequences from physical strain or injury.
-* **Resolve**: Consequences from mental strain or willpower.
+* **Sharp**: Consequences from deception or understanding.
+* **Tough**: Consequences from physical strain or injury.
+* **Quick**: Consequences from mental strain or willpower.
 
 Your character suffers **6 stress** when they resist, **minus the highest die result from the resistance roll**. So, if you rolled a **4**, you'd suffer 2 stress. If you rolled a **6**, you'd suffer zero stress. If you get a **critical** result, you also **clear 1 stress**.
 
-> Ian's character, Silas, is in a desperate **Skirmish** with several duelists and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Ian to record level 3 harm, "Gut Stabbed" on Silas's sheet. Ian decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Silas's **Prowess** attribute and gets a **5**. Silas takes 1 stress and the harm is reduced to level 2, "Cut to the Ribs."
+> Ian's character, Silas, is in a desperate **Combat** with several duelists and one of them lands a blow with their sword. Since the position was desperate, the GM inflicts severe harm (modified by any other factors). They tell Ian to record level 3 harm, "Gut Stabbed" on Silas's sheet. Ian decides to resist the harm, instead. The GM says he can reduce the harm by one level if he resists it. Ian rolls 3d for Silas's **Tough** attribute and gets a **5**. Silas takes 1 stress and the harm is reduced to level 2, "Cut to the Ribs."
 
 Usually, a resistance roll **reduces the severity** of a consequence. If you're going to suffer fatal harm, for example, a resistance roll would reduce the harm to severe, instead. Or if you got a complication when you were sneaking into the manor house, and the GM was going to mark three ticks on the "Alert" clock, she'd only mark two (or maybe one) if you resisted the complication.
 
@@ -652,9 +652,9 @@ Other examples of fortune rolls:
 
 * The PCs instigate a war between two factions, then sit back and watch the fireworks. How does it turn out? Does either side dominate? Are they both made vulnerable by the conflict? Make a few fortune rolls to find out.
 * A strange sickness is sweeping the city. How badly is a crime ridden district hit by the outbreak? The GM assigns a magnitude to the arcane plague, and makes a fortune roll to judge the extent of its contamination.
-* The Hound stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled **Hunt** roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his "toughness" as a trait to see if he can possibly survive the attack. The roll is a **4/5**: the bullet misses his heart, but hits him in the lung—it's a mortal wound. He's on death's door, with only hours to live, unless his gang can get an expert physicker to him in time.
+* The Hound stakes out a good spot and makes a sniper shot against a gang leader when he enters his office. The controlled **Track** roll is a success, but is great effect enough to instantly kill a grizzled gang leader? Instead of making a progress clock for his mortality, the GM decides to use a simple fortune roll with his "toughness" as a trait to see if he can possibly survive the attack. The roll is a **4/5**: the bullet misses his heart, but hits him in the lung—it's a mortal wound. He's on death's door, with only hours to live, unless his gang can get an expert physicker to him in time.
 * Inspectors are putting a case together against the PC crew. How quickly will their evidence result in arrests? The crew's **wanted level** counts as a major advantage for the inspectors.
-* The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs' favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew's lives. The GM isn't sure. How cold-hearted is this veteran hunter? She's stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for "human feelings" to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to **Consort**, **Sway**, or **Command** her to stand down.
+* The PCs face off in a skirmish with a veteran demon hunter captain and her crew. The tide of battle goes in the PCs' favor, and many crew members are killed. One of the players asks if the captain will surrender to spare the rest of her crew's lives. The GM isn't sure. How cold-hearted is this veteran hunter? She's stared giant demons in the eye without flinching... is there anything human left inside her? The GM makes a 2d fortune roll for "human feelings" to see if a spark of compassion remains in heart. If so, maybe one of the PCs can roll to **Negotiate**, **Persuade**, or **Lead** her to stand down.
 
 ---
 
@@ -685,9 +685,9 @@ Each attempt to gather information takes time. If the situation allows, you can 
 
 Some example questions are on the bottom of the character sheet. The GM always answers honestly, but with a level of detail according to the level of effect.
 
-The most common gather information actions are **Surveying** the situation to reveal or anticipate what's going on and **Studying** a person to understand what they intend to do or what they're really thinking.
+The most common gather information actions are **Observeing** the situation to reveal or anticipate what's going on and **Analyzeing** a person to understand what they intend to do or what they're really thinking.
 
-Sometimes, you'll have to maneuver yourself into position before you can gather information. For example, you might have to **Prowl** to a good hiding place first and then **Study** the cultists when they perform their dark ritual.
+Sometimes, you'll have to maneuver yourself into position before you can gather information. For example, you might have to **Infiltrate** to a good hiding place first and then **Analyze** the cultists when they perform their dark ritual.
 
 ## Investigation
 
@@ -697,16 +697,16 @@ You track the investigation project using a progress clock. Once the clock is fi
 
 ## Examples & Questions
 
-* You might **Attune** to see echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that's calling to them? What should I be worried about?*
-* You might **Command** a local barkeep to tell you what he knows about the secret meetings held in his back room. *What's really going on here? What's he really feeling about this? Is he part of this secret group?*
-* You might **Consort** with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
-* You might **Hunt** a courier across the city, to discover who's receiving satchels of coin from a master duelsit. *Where does the package end up? How can I find out who signed for the package at City Hall?*
-* You might **Study** ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? **Will anyone sense if they're disabled?*
-* Or you might **Study** a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
-* You might **Survey** a manor house to case it for a heist. *What's a good point of infiltration? What's the danger here?*
-* Or you might **Survey** a charged situation when you meet another gang. *What's really going on here? Are they about to attack us?*
-* You might **Sway** a powerful lord at a party so he divulges his future plans. *What does he intend to do? How can I get him to think I might be a good partner in this venture?*
-* Or you might **Sway** his bodyguard to confide in you about recent events. *Where has he been lately? Who's he been meeting with?*
+* You might **Channel** to see echoes of recent spirit activity. *Have any new ghosts been here? How can I find the spirit well that's calling to them? What should I be worried about?*
+* You might **Lead** a local barkeep to tell you what he knows about the secret meetings held in his back room. *What's really going on here? What's he really feeling about this? Is he part of this secret group?*
+* You might **Negotiate** with a well-connected friend to learn secrets about an enemy, rival, or potential ally. *What do they intend to do? What might I suspect about their motives? How can I discover leverage to manipulate them?*
+* You might **Track** a courier across the city, to discover who's receiving satchels of coin from a master duelsit. *Where does the package end up? How can I find out who signed for the package at City Hall?*
+* You might **Analyze** ancient and obscure books to discover an arcane secret. *How can I disable the runes of warding? **Will anyone sense if they're disabled?*
+* Or you might **Analyze** a person to read their intentions and feelings. *What are they really feeling? How could I get them to trust me?*
+* You might **Observe** a manor house to case it for a heist. *What's a good point of infiltration? What's the danger here?*
+* Or you might **Observe** a charged situation when you meet another gang. *What's really going on here? Are they about to attack us?*
+* You might **Persuade** a powerful lord at a party so he divulges his future plans. *What does he intend to do? How can I get him to think I might be a good partner in this venture?*
+* Or you might **Persuade** his bodyguard to confide in you about recent events. *Where has he been lately? Who's he been meeting with?*
 
 ---
 
@@ -880,7 +880,7 @@ Each player keeps track of the experience points (**xp**) that their character e
 
 During the game session, mark xp:
 
-* When you make a **desperate action roll**. Mark 1 xp in the attribute for the action you rolled. For example, if you roll a desperate **Skirmish** action, you mark xp in **Prowess***.* When you roll in a **group action** that's desperate, you also mark xp.
+* When you make a **desperate action roll**. Mark 1 xp in the attribute for the action you rolled. For example, if you roll a desperate **Combat** action, you mark xp in **Tough***.* When you roll in a **group action** that's desperate, you also mark xp.
 
 At the end of the session, review the **xp triggers** on your character sheet. For each one, mark 1 xp if it happened at all, or mark 2 xp if it happened a lot during the session. The xp triggers are:
 
@@ -892,7 +892,7 @@ You may mark end-of-session xp on any xp tracks you want (any attribute or your 
 
 When you fill an xp track, clear all the marks and take an **advance**. When you take an advance from your playbook track, you may choose an additional **special ability**. When you take an advance from an attribute, you may add an **additional action dot** to one of the actions under that attribute.
 
-> Nadja is playing a Hound. At the end of the session, she reviews her xp triggers and tells the group how much xp she's getting. She rolled two desperate **Hunt** actions during the session, so she marked 2 xp on her **Insight** xp track. She addressed several challenges with tracking or violence, so she marks 2 xp for that. She expressed her Iruvian heritage many times when dealing with the Red Sashes, so she takes 2 xp for that. She also showcased her character's beliefs, but 2 xp is the maximum for that category, so she doesn't get any more. She didn't struggle with her vice or traumas, so no xp there. That's 4 xp at the end of the session. She decides to put it all in her **Insight** xp track. This fills the track, so she adds a new action dot in **Hunt**.
+> Nadja is playing a Hound. At the end of the session, she reviews her xp triggers and tells the group how much xp she's getting. She rolled two desperate **Track** actions during the session, so she marked 2 xp on her **Sharp** xp track. She addressed several challenges with tracking or violence, so she marks 2 xp for that. She expressed her Iruvian heritage many times when dealing with the Red Sashes, so she takes 2 xp for that. She also showcased her character's beliefs, but 2 xp is the maximum for that category, so she doesn't get any more. She didn't struggle with her vice or traumas, so no xp there. That's 4 xp at the end of the session. She decides to put it all in her **Sharp** xp track. This fills the track, so she adds a new action dot in **Track**.
 
 You can also earn xp by **training** during downtime. When you train, mark xp in one of your attributes or in your playbook. A given xp track can be trained only once per downtime phase.
 
@@ -907,7 +907,7 @@ At the end of the session, review the crew xp triggers and mark 1 crew xp for ea
 
 **When you fill your crew advancement tracker**, clear the marks and take a new **special ability** or mark **two crew upgrade boxes**.
 
-> For example, when a crew of Assassins earns a crew advance, they could take a new special ability, like **Predators**. Or they could mark two upgrades, like **Ironhook Contacts** and **Resolve** **Training**.
+> For example, when a crew of Assassins earns a crew advance, they could take a new special ability, like **Predators**. Or they could mark two upgrades, like **Ironhook Contacts** and **Quick** **Training**.
 
 Say how you've obtained this new ability or upgrades for the crew. *Where did it come from? How does it become a new part of the crew?*
 
@@ -919,7 +919,7 @@ Every time the crew advances, **each PC gets stash** equal to the crew Tier+2, t
 
 ## Characters
 
-Every player character is familiar with all of the various feats of skulduggery represented by the **actions** of the game. They're all able to **Skirmish** in a knife-fight, **Prowl** in the shadows, **Attune** to strange energy, **Consort** with contacts for information, and so on.
+Every player character is familiar with all of the various feats of skulduggery represented by the **actions** of the game. They're all able to **Combat** in a knife-fight, **Infiltrate** in the shadows, **Channel** to strange energy, **Negotiate** with contacts for information, and so on.
 
 Of course, you'll also have your specializations and skills, the qualities that make your character uniquely effective. You might want the ability to compel obedience from ghosts and channel arcane energy through your body, or maybe you want to manipulate the network of the underworld to your advantage and see danger before it strikes, or maybe you just want to be the deadliest fighter with a blade. In this chapter, you'll learn how to create your own unique scoundrel and choose the abilities that suit the style of play you prefer.
 
@@ -993,7 +993,7 @@ That's it! Your character is ready for play. When you start the first session, t
 
 **2** **Choose a heritage.** Detail your choice with a note about your family life. *For example, Ore miners, now war refugees.*
 
-**3** **Choose a background.** Detail your choice with your specific history. *For example, Labor: Hunter, mutineer.*
+**3** **Choose a background.** Detail your choice with your specific history. *For example, Labor: Tracker, mutineer.*
 
 **4** **Assign four action dots.** No action may begin with a rating higher than 2 during character creation. *(After creation, action ratings may advance up to 3. When you unlock the Mastery advance for your crew, you can advance actions up to rating 4.)*
 
@@ -1081,7 +1081,7 @@ You may imbue your hands, melee weapons, or tools with spirit energy. You gain *
 
 ### Leader
 
-When you **Command** a **cohort** in combat, they continue to fight when they would otherwise **break** (they're not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
+When you **Lead** a **cohort** in combat, they continue to fight when they would otherwise **break** (they're not taken out when they suffer level 3 harm). They gain **+1 effect** and **1 armor**.
 
 > This ability makes your cohorts more effective in battle and also allows them to resist harm by using armor. While you lead your cohorts, they won't stop fighting until they take fatal harm (level 4) or you order them to cease. What do you do to inspire such bravery in battle?
 
@@ -1101,11 +1101,11 @@ You can **push yourself** to do one of the following: *perform a feat of physica
 
 ### Savage
 
-When you unleash physical violence, it's especially frightening. When you **Command** a frightened target, take **+1d**.
+When you unleash physical violence, it's especially frightening. When you **Lead** a frightened target, take **+1d**.
 
 > You instill fear in those around you when you get violent. How they react depends on the person. Some people will flee from you, some will be impressed, some will get violent in return. The GM judges the response of a given NPC.
 >
-> In addition, when you **Command** someone who's affected by fear (from this ability or otherwise), take +1d to your roll.
+> In addition, when you **Lead** someone who's affected by fear (from this ability or otherwise), take +1d to your roll.
 
 ### Vigorous
 
@@ -1167,13 +1167,13 @@ You may expend your **special armor** to resist a consequence of fatigue, weakne
 
 ### Supernatural ward
 
-When you **Wreck** an area with arcane substances, ruining it for any other use, it becomes anathema or enticing to the supernatural (your choice).
+When you **Smash** an area with arcane substances, ruining it for any other use, it becomes anathema or enticing to the supernatural (your choice).
 
 > If you make an area anathema to the supernatural, they will do everything they can to avoid it, and will suffer torment if forced inside the area. If you make an area enticing to spirits, they will seek it out and linger in the area, and will suffer torment if forced to leave. This effect lasts for several days over an area the size of a small room. Particularly powerful or prepared entities may roll their quality or arcane magnitude to see how well they're able to resist the effect.
 
 ### Saboteur
 
-When you **Wreck**, your work is much quieter than it should be and the damage is very well-hidden from casual inspection.
+When you **Smash**, your work is much quieter than it should be and the damage is very well-hidden from casual inspection.
 
 > You can drill holes in things, melt stuff with acid, even use a muffled explosive, and it will all be very quiet and extremely hard to notice.
 
@@ -1245,7 +1245,7 @@ At the end of each downtime phase, you earn **+2 stash**.
 
 ### Mesmerism
 
-When you **Sway** someone, you may cause them to forget that it's happened until they next interact with you.
+When you **Persuade** someone, you may cause them to forget that it's happened until they next interact with you.
 
 > The victim's memory "glosses over" the missing time, so it's not suspicious that they've forgotten something. When you next interact with the victim, they remember everything clearly, including the strange effect of this ability.
 
@@ -1287,7 +1287,7 @@ You may expend your **special armor** to **protect** a teammate, or to **push yo
 
 ### Weaving the web
 
-You gain **+1d** to **Consort** when you gather information on a target for a score. You get **+1d** to the **engagement roll** for that operation.
+You gain **+1d** to **Negotiate** when you gather information on a target for a score. You get **+1d** to the **engagement roll** for that operation.
 
 > Your network of underworld connections can always be leveraged to gain insight for a job—even when your contacts aren't aware that they're helping you.
 
@@ -1297,13 +1297,13 @@ You're always aware of supernatural entities in your presence. Take **+1d** when
 
 ### Iron will
 
-You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll** with **Resolve**, take **+1d**.
+You are immune to the terror that some supernatural entities inflict on sight. When you make a **resistance roll** with **Quick**, take **+1d**.
 
 > With this ability, you do not freeze up or flee when confronted by any kind of supernatural entity or strange occult event.
 
 ### Ritual
 
-You know the arcane methods to perform ritual sorcery. You can **Study** an occult ritual (or create a new one) to summon a supernatural effect or being. You begin with one ritual already learned.
+You know the arcane methods to perform ritual sorcery. You can **Analyze** an occult ritual (or create a new one) to summon a supernatural effect or being. You begin with one ritual already learned.
 
 > Without this special ability, the study and practice of rituals leaves you utterly vulnerable to the powers you supplicate. Such endeavors are not recommended.
 
@@ -1376,7 +1376,7 @@ Just like picking the crew type, reputation, lair, and hunting grounds, choosing
 
 ## Assign crew upgrades
 
-An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions in the following sections). Each crew type has two pre-selected **upgrades** that suit that crew (like **Prowess** **Training** and a **gang** of Thugs for the Bravos crew).
+An upgrade is a valuable asset that helps the crew in some way, like a boat or a gang (see the complete descriptions in the following sections). Each crew type has two pre-selected **upgrades** that suit that crew (like **Tough** **Training** and a **gang** of Thugs for the Bravos crew).
 
 You get to add **two additional upgrades** to your new crew (so you'll have a total of four upgrades when you start). You can choose from the specific upgrades available to your crew type or the general upgrades on the crew sheet.
 
@@ -1408,13 +1408,13 @@ At your option, these factions are even more concerned with this contact and so 
 
 * **Mastery**: Your crew has access to master level training. You may advance your PCs' action ratings to 4 (until you unlock this upgrade, PC action ratings are capped at 3). This costs four upgrade boxes to unlock.
 
-* **Quality**: **Each upgrade improves the quality rating** of all the PCs' items of that type, beyond the quality established by the crew's Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Tinkering Tools), and **Weapons**. *So, if you are Tier 0, with fine lock picks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock.*
+* **Quality**: **Each upgrade improves the quality rating** of all the PCs' items of that type, beyond the quality established by the crew's Tier and fine items. You can improve the quality of **Documents**, **Gear** (covers Burglary Gear and Climbing Gear), Arcane **Implements**, Subterfuge **Supplies**, **Tools** (covers Demolitions Tools and Engineering Tools), and **Weapons**. *So, if you are Tier 0, with fine lock picks (+1) and the Quality upgrade for gear (+1), you could contend equally with a Tier II quality lock.*
 
 * **Quarters**: Your lair includes living quarters for the crew. Without this upgrade, each PC sleeps elsewhere, and is vulnerable when they do so.
 
 * **Secure Lair**: Your lair has locks, alarms, and traps to thwart intruders. A second upgrade improves the defenses to include arcane measures that work against spirits. *You might roll your crew's Tier if these measures are ever put to the test, to see how well they thwart an intruder.*
 
-* **Training**: If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (**Insight**, **Prowess**, **Resolve**, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, for more information.  *If you have Insight Training, when you train Insight during downtime, you mark 2 xp on the **Insight** track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train.*
+* **Training**: If you have a Training upgrade, you earn 2 xp (instead of 1) when you train a given xp track during downtime (**Sharp**, **Tough**, **Quick**, or Playbook xp). This upgrade essentially helps you advance more quickly. See **Advancement**, for more information.  *If you have Sharp Training, when you train Sharp during downtime, you mark 2 xp on the **Sharp** track (instead of just 1). If you have Playbook Training, you mark 2 xp on your playbook xp track when you train.*
 
 * **Vault**: Your lair has a secure vault, increasing your storage capacity for **coin** to 8. A second upgrade increases your capacity to 16.  A separate part of your vault can be used as a holding cell.
 
@@ -1470,11 +1470,11 @@ You can add an **additional type** to a gang or expert by spending two crew upgr
 
 ### Using a cohort
 
-When you send a cohort to achieve a goal, roll their **quality** to see how it goes. Or, a PC can oversee the maneuver by leading a **group action**. If you direct the cohort with orders, roll **Command**. If you participate in the action alongside the cohort, roll the appropriate action. The quality of any opposition relative to the cohort's quality affects the position and effect of the action.
+When you send a cohort to achieve a goal, roll their **quality** to see how it goes. Or, a PC can oversee the maneuver by leading a **group action**. If you direct the cohort with orders, roll **Lead**. If you participate in the action alongside the cohort, roll the appropriate action. The quality of any opposition relative to the cohort's quality affects the position and effect of the action.
 
 > The PCs crew of Hawkers want to run a rival gang out of the alley where they're selling drugs. They send their gang of Thugs to go kick the interlopers out. The GM rolls 2d for the Thugs' quality, and gets a **3**. An hour later, the Thugs come back, beaten and bloody. One of them looks sheepish, "Those guys are tough, boss." (The GM inflicts harm on the cohort, and they failed their goal.)
 >
-> The next day, the crew boss goes back and leads a group action, rolling her 3d in **Skirmish** alongside the Thugs' 2d. The boss gets a **6** this time—they beat the tar out of the other gang and send them packing (at least for now).
+> The next day, the crew boss goes back and leads a group action, rolling her 3d in **Combat** alongside the Thugs' 2d. The boss gets a **6** this time—they beat the tar out of the other gang and send them packing (at least for now).
 
 ## Cohort harm & Healing
 
@@ -1592,27 +1592,27 @@ Sample claims include:
 
 **Ancient Altar**:  You get **+1d** to the **engagement roll** for **occult** plans. *Its blessing is with you.*
 
-**Ancient Tower**: You get **+1d** to **Consort** with arcane entities on-site.
+**Ancient Tower**: You get **+1d** to **Negotiate** with arcane entities on-site.
 
 **Offertory**: You get **+2** **coin** in your payoff for scores that involve occult operations. *The frightened locals offer you tribute when you perform your dark practices. They don't want to be next.*
 
 **Local Graft**: You get **+2** **coin** in **payoff** for scores that involve a show of force or socializing. *A few city officials share bribe money with those who show that they're players on the scene.*
 
-**Lookouts**:  You get **+1d** to **Hunt** or **Survey** on your turf.
+**Lookouts**:  You get **+1d** to **Track** or **Observe** on your turf.
 
-**Luxury Venue**:  **+1d** to **Consort** and **Sway** rolls on-site. *Silks, paintings, and crystal impress the clientele.*
+**Luxury Venue**:  **+1d** to **Negotiate** and **Persuade** rolls on-site. *Silks, paintings, and crystal impress the clientele.*
 
 **Surplus Cache**: You get **+2** **coin** in **payoff** for scores that involve product sale or supply. *You have an abundance of product, which pads your pockets every now and then.*
 
 **Covert Drop**: You get **+2** **coin** in **payoff** for scores that involve espionage or sabotage. *The perfect hidden exchange point is worth the extra coin to discerning clientele.*
 
-**Interrogation Chamber**: You get **+1d** to **Command** and **Sway** on-site. *Grisly business, but effective.*
+**Interrogation Chamber**: You get **+1d** to **Lead** and **Persuade** on-site. *Grisly business, but effective.*
 
 **Loyal Fence**: You get **+2** **coin** in **payoff** for scores that involve burglary or robbery. *It requires a skilled eye and good contacts to move stolen goods.*
 
 **Secret Pathways**:  You get **+1d** to the **engagement roll** for **stealth** plans. *You might have access to long-forgotten underground canals, rooftop walkways, or some other route of your choosing.*
 
-**Tavern**: You get **+1d** to **Consort** and **Sway** rolls on-site. *Some booze and friendly conversation can go a long way.*
+**Tavern**: You get **+1d** to **Negotiate** and **Persuade** rolls on-site. *Some booze and friendly conversation can go a long way.*
 
 **Side Business**: Any time during downtime, roll dice equal to your Tier. You earn **coin** equal to the highest result, minus your **heat**. *What kind of legitimate business is this? How do you get paid in secret?*
 
@@ -1622,7 +1622,7 @@ Create seven special abilities for your crew. Here are several examples.
 
 ### Deadly
 
-Each PC may add +1 action rating to **Hunt**, **Prowl**, or **Skirmish** (up to a max rating of 3).
+Each PC may add +1 action rating to **Track**, **Infiltrate**, or **Combat** (up to a max rating of 3).
 
 > Each player may choose the action they prefer (you don't all have to choose the same one). If you take this ability during initial character and crew creation, it supersedes the normal starting limit for action ratings.
 
@@ -1692,7 +1692,7 @@ When you execute a clandestine infiltration, you get **+1d** to the **engagement
 
 When you perform a **group action**, you may count multiple 6s from different rolls as a **critical** success.
 
-> For example, Lyric leads a group action to **Attune** to the ghost field to overcome a magical ward on the Dimmer Sisters' door. Emily, Lyric's player, rolls and gets a **6**, and so does Matt! Because the crew has Synchronized, their two separate **6**s count as a **critical** success on the roll.
+> For example, Lyric leads a group action to **Channel** to the ghost field to overcome a magical ward on the Dimmer Sisters' door. Emily, Lyric's player, rolls and gets a **6**, and so does Matt! Because the crew has Synchronized, their two separate **6**s count as a **critical** success on the roll.
 
 ### All hands
 
@@ -1706,7 +1706,7 @@ During **downtime**, take **-1 **heat****. When your **heat** is 4 or less, you 
 
 *Murder for hire, brutal extortion, dark rituals, illicit deals, smuggling runs, thievery in the shadows—the only chances left for those pushed to the margins and denied the privileges of the corrupt and predatory elite.*
 
-In *Blades in the Dark*, we play to find out if a fledgling crew of characters can prosper in the underworld—and that prosperity depends upon their criminal endeavors, which we call **scores**.
+In *Capes in the Dark*, we play to find out if a fledgling crew of characters can prosper in the underworld—and that prosperity depends upon their criminal endeavors, which we call **scores**.
 
 A score is a single operation with a particular goal: *burgle a Lord's manor, assassinate the diplomat, smuggle a strange artifact into the city*, etc. Usually, a score will fall into one of three categories:
 
@@ -1808,12 +1808,12 @@ Either approach is fine. It's usually a question of interest. Is the linked plan
 
 ## Flashbacks
 
-The rules don't distinguish between actions performed in the present moment and those performed in the past. When an operation is underway, you can invoke a **flashback** to roll for an action in the past that impacts your current situation. Maybe you convinced the district Watch sergeant to cancel the patrol tonight, so you make a **Sway** roll to see how that went.
+The rules don't distinguish between actions performed in the present moment and those performed in the past. When an operation is underway, you can invoke a **flashback** to roll for an action in the past that impacts your current situation. Maybe you convinced the district Watch sergeant to cancel the patrol tonight, so you make a **Persuade** roll to see how that went.
 
 The GM sets a **stress cost** when you activate a flashback action.
 
-* **0** **Stress**: An ordinary action for which you had easy opportunity. *The Cutter ***Consorted*** with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally.*
-* **1** **Stress**: A complex action or unlikely opportunity. *The Hound ***Finessed** his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door.*
+* **0** **Stress**: An ordinary action for which you had easy opportunity. *The Cutter ***Negotiateed*** with her friend to agree to arrive at the dice game ahead of time, to suddenly spring out as a surprise ally.*
+* **1** **Stress**: A complex action or unlikely opportunity. *The Hound ***Evaded** his pistols into a hiding spot near the card table so he could retrieve them after the pat-down at the front door.*
 * **2** **(or more) Stress**: An elaborate action that involved special opportunities or contingencies. *The Whisper has already **Studied** the history of the property and learned of a ghost that is known to haunt its ancient canal dock—a ghost that can be compelled to reveal the location of the hidden vault.*
 
 After the stress cost is paid, a flashback action is handled just like any other action. Sometimes it will entail an action roll, because there's some danger or trouble involved. Sometimes a flashback will entail a fortune roll, because we just need to find out how well (or how much, or how long, etc.). Sometimes a flashback won't call for a roll at all because you can just pay the stress and it's accomplished.
@@ -1832,7 +1832,7 @@ A flashback isn't time travel. It can't "undo" something that just occurred in t
 >
 > "Ha! Nice. Okay, that's seems a bit tricky, dealing with ornery goats and all... 1 stress."
 >
-> "Should I roll Prowl to sneak in and plant it?"
+> "Should I roll Infiltrate to sneak in and plant it?"
 >
 > "Nah. Their goat stable security amounts to a stable boy who is usually asleep anyway. You can easily avoid their notice."
 >
@@ -1850,13 +1850,13 @@ A flashback isn't time travel. It can't "undo" something that just occurred in t
 >
 > "Uh. Something... helpful? Damn, I don't know what that would be. Anyone have ideas?"
 >
-> "Oh, what if you Consorted with your docker friends yesterday and they blabbed about this delivery, so we rigged it with a bomb."
+> "Oh, what if you Negotiateed with your docker friends yesterday and they blabbed about this delivery, so we rigged it with a bomb."
 >
 > "Oh man, that's hilarious. But kind of nuts. I guess 2 stress for that?"
 >
-> "Sounds good. But let's make that Consort roll and see if your docker friends made any demands or complicated anything for you. Then we need to find out how well this bomb works. Who was in charge of that?"
+> "Sounds good. But let's make that Negotiate roll and see if your docker friends made any demands or complicated anything for you. Then we need to find out how well this bomb works. Who was in charge of that?"
 >
-> "I did it. I'll roll Tinker to set the fuse just right. Hopefully."
+> "I did it. I'll roll Engineer to set the fuse just right. Hopefully."
 
 ## Giving up on a score
 
@@ -1885,11 +1885,11 @@ When you lead a group action, you coordinate multiple members of the team to tac
 
 Each PC who's involved makes an **action roll** (using the same action) and **the team counts the single best result** as the overall effort for everyone who rolled. However, the character leading the group action takes **1 stress** for each PC that rolled** 1-3** as their best result.
 
-> This is how you do the "we all sneak into the building" scene. Everyone who wants to sneak in rolls their Prowl action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It's tough covering for the stragglers.
+> This is how you do the "we all sneak into the building" scene. Everyone who wants to sneak in rolls their Infiltrate action, and the best result counts for the whole team. The leader suffers stress for everyone who does poorly. It's tough covering for the stragglers.
 
 **The group action result covers everyone who rolled.** If you don't roll, your character doesn't get the effects of the action.
 
-Your character doesn't have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew's **cohorts** with a group action. Roll **Command** if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
+Your character doesn't have to be especially skilled at the action at hand in order to lead a group action. This maneuver is about leadership, not necessarily about ability. You can also lead your crew's **cohorts** with a group action. Roll **Lead** if you direct their efforts, or roll the appropriate action rating if you participate alongside them. The cohort rolls its **quality** level.
 
 ### Protect
 
@@ -1901,13 +1901,13 @@ You step in to face a consequence that one of your teammates would otherwise fac
 
 When you perform a setup action, you have an indirect effect on an obstacle. If your action has its intended result, any member of the team who follows through on your maneuver gets **+1 effect level** or **improved position** for their roll. You choose the benefit, based on the nature of your setup action.
 
-> This is how you do the "I'll create a distraction" scene. You roll **Sway** to distract a constable with your charms, then any teammate who follows through with a **Prowl** action to sneak past him can get improved position. It's less risky since you're drawing the guard's attention.
+> This is how you do the "I'll create a distraction" scene. You roll **Persuade** to distract a constable with your charms, then any teammate who follows through with a **Infiltrate** action to sneak past him can get improved position. It's less risky since you're drawing the guard's attention.
 
 This is a good way to contribute to an operation when you don't have a good rating in the action at hand. A clever setup action lets you help the team indirectly. Multiple follow-up actions may take advantage of your setup (including someone **leading** a group action) as long as it makes sense in the fiction.
 
 Since a setup action can increase the effect of follow-up actions, it's also useful when the team is facing tough opposition that has advantages in quality, scale, and/or potency. Even if the PCs are reduced to zero effect due to disadvantages in a situation, the setup action provides a bonus that allows for limited effect.
 
-> The PCs are facing a heavily armored carriage that's immune to their weapons. Aldo uses **Wreck** as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect.
+> The PCs are facing a heavily armored carriage that's immune to their weapons. Aldo uses **Smash** as a setup action to pry some of the armor loose with his crowbar, giving follow up actions +1 effect—going from zero to limited effect.
 
 ## Do We Have to Use Teamwork?
 
@@ -2173,7 +2173,7 @@ Alchemicals, poisons, bombs, and dangerous gadgets are highly restricted. When y
 
 If you want to acquire an asset permanently, you can either gain it as a crew upgrade or work on it as a **long-term project** to set up a permanent acquisition.
 
-> Zamira the Whisper is a duelist in the Iruvian style, and would like a fine sword to add to her permanent items. Her player starts a long-term project: "Get My Family Sword Back from the Pawn Shop." The GM says this is an 8-clock (she can work on it by **Consorting** or **Swaying** the pawn shop owner or maybe rolling her lifestyle level to represent small payments).
+> Zamira the Whisper is a duelist in the Iruvian style, and would like a fine sword to add to her permanent items. Her player starts a long-term project: "Get My Family Sword Back from the Pawn Shop." The GM says this is an 8-clock (she can work on it by **Negotiateing** or **Persuadeing** the pawn shop owner or maybe rolling her lifestyle level to represent small payments).
 
 ### Long-term project
 
@@ -2183,13 +2183,13 @@ A long-term project can cover a wide variety of activities, like doing research 
 
 Based on the goal of the project, the GM will tell you the clock(s) to create and suggest a method by which you might make progress.
 
-In order to work on a project, you might first have to achieve the means to pursue it—which can be a project in itself. For example, you might want to make friends with a member of the City Council, but you have no connection to them. You could first work on a project to **Consort** in their circles so you have the opportunity to meet one of them. Once that's accomplished, you could start a new project to form a friendly relationship.
+In order to work on a project, you might first have to achieve the means to pursue it—which can be a project in itself. For example, you might want to make friends with a member of the City Council, but you have no connection to them. You could first work on a project to **Negotiate** in their circles so you have the opportunity to meet one of them. Once that's accomplished, you could start a new project to form a friendly relationship.
 
 ### Recover
 
 When you recover, you seek treatment and heal your harm. You might visit a physicker who can stitch your wounds and soothe your mind with anatomical science or a witch who specializes in healing charms and restorative alchemy. If you don't have a contact or fellow PC who can provide treatment, you can use the **acquire asset** activity to gain access to a healer, who can provide service for the whole crew.
 
-Recovery is like a long-term project. Your healer rolls (**Tinker** for a PC with the **Physicker** special ability or the **quality** level of an NPC) and then you mark a number of segments on your **healing clock**. **1-3**: one segment, **4/5**: two segments, **6**: three segments, **critical**: five segments.
+Recovery is like a long-term project. Your healer rolls (**Engineer** for a PC with the **Physicker** special ability or the **quality** level of an NPC) and then you mark a number of segments on your **healing clock**. **1-3**: one segment, **4/5**: two segments, **6**: three segments, **critical**: five segments.
 
 When you fill your healing clock, reduce each instance of harm on your sheet by one level, then clear the clock. If you have more segments to mark, they "roll over."
 
@@ -2205,7 +2205,7 @@ Whenever you suffer new harm, clear any ticks on your healing clock.
 
 ### Reduce heat
 
-Say what your character does to reduce the **heat** level of the crew and make an action roll. Maybe you **Consort** with your friend who's a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you **Command** the fear of the local citizens so they're afraid to snitch.
+Say what your character does to reduce the **heat** level of the crew and make an action roll. Maybe you **Negotiate** with your friend who's a officer and she arranges for a few incriminating Watch reports to disappear. Or maybe you **Lead** the fear of the local citizens so they're afraid to snitch.
 
 Reduce **heat** according to the result: **1-3**: one, **4/5**: two, **6**: three, **critical**: five.
 
@@ -2237,7 +2237,7 @@ A character's vice is their obsession. But with this indulgence comes relief fro
 
 When you indulge your vice, you clear some stress from your character's stress track. Say how your character indulges their vice, including which **purveyor of vice** they use to satisfy their needs.  This indulgence takes time, so it can only be done when the crew has **downtime**. Alternately, you may choose to release your character to be "lost in their vice" during a game session, allowing them to indulge off-camera while you play a different PC. A gang member, friend, or contact of the crew might be created as an alternate character to play, thus fleshing out the landscape of PCs.
 
-You roll to find out how much stress relief your character receives. A vice roll is like a resistance roll in reverse—rather than gaining stress levels, you clear stress levels. The effectiveness of your indulgence depends upon your character's worst attribute rating. It's their weakest quality (**Insight**, **Prowess**, or **Resolve**) that is most in thrall to vice.
+You roll to find out how much stress relief your character receives. A vice roll is like a resistance roll in reverse—rather than gaining stress levels, you clear stress levels. The effectiveness of your indulgence depends upon your character's worst attribute rating. It's their weakest quality (**Sharp**, **Tough**, or **Quick**) that is most in thrall to vice.
 
 Make an **attribute roll** using your character's lowest attribute rating (if there's a tie, that's fine—simply use that rating). **Clear stress equal to the highest die result.**
 
@@ -2427,7 +2427,7 @@ Once the source of a ritual is found, you may undertake a long-term project to l
 ### Ritual Questions
 
 1. GM asks: **"What does the ritual do and how is it weird?"** Player answers.
-2. Player asks: **"What must I do to perform the ritual, and what is its price?"** GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually **Attune**). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
+2. Player asks: **"What must I do to perform the ritual, and what is its price?"** GM answers. A ritual takes at least one downtime activity to perform and inflicts **stress** on the caster according to its **magnitude**.  If performance of the ritual is dangerous or troublesome in some way, it requires an action roll (usually **Channel**). A ritual may also have additional costs, such as a sacrifice, rare item, the start of a dire progress clock, etc.
 3. GM asks: **"What new belief or fear does knowledge of this ritual and its attendant occult forces instill in you?"** Player answers.
 
 ### Example Ritual Answers
@@ -2448,17 +2448,17 @@ When you perform a ritual, you take an amount of **stress** as established by th
 
 The GM may also **tick a progress clock** when you perform a ritual—to advance the agenda of an arcane power or entity, or to show the steady approach of a dark outcome that is a consequence of the ritual's use.
 
-If a ritual is dangerous or troublesome to perform, make an **action roll** (usually **Attune**) to see if unpleasant consequences manifest. If a ritual has an uncertain effect then a **fortune roll** should be made to see how well it manifests. Because a ritual is a downtime activity, you may spend **coin** 1-for-1 to increase the result level of your fortune roll (this represents the expenditure of expensive or rare ritual materials). If a ritual is both dangerous and uncertain, then both rolls may be called for.
+If a ritual is dangerous or troublesome to perform, make an **action roll** (usually **Channel**) to see if unpleasant consequences manifest. If a ritual has an uncertain effect then a **fortune roll** should be made to see how well it manifests. Because a ritual is a downtime activity, you may spend **coin** 1-for-1 to increase the result level of your fortune roll (this represents the expenditure of expensive or rare ritual materials). If a ritual is both dangerous and uncertain, then both rolls may be called for.
 
 Each performance of a ritual is a unique event, and may not always work the same way each time. The GM or players may call for a round of questions to establish a ritual anew. Rituals are a way to bring in a wide variety of arcane effects into the game. Use with caution! If you ever go overboard, address the questions again to establish new weirdness and costs if things have gotten out of hand. The abyssal forces are not playthings and cannot be considered a reliable or safe source of power.
 
 # Crafting
 
-During downtime, a PC can **Tinker** with special materials and tools to produce strange **alchemicals**, **build** (or **modify**) **items**, **create spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
+During downtime, a PC can **Engineer** with special materials and tools to produce strange **alchemicals**, **build** (or **modify**) **items**, **create spark-craft** gadgets, or enchant **arcane** implements or weapons. The system for each method is similar, with different details depending on the nature of the project.
 
 ## Inventing
 
-To invent a formula for a new alchemical concoction or the plan for a new item of your design, you need to **Study** it as a **long-term project**. Most new formulas or designs will require an 8-segment progress clock to invent and learn. The player and the GM answer questions about the invention to define what it will do in play and what is required to create it (see below). The player records these answers in their notes for future reference.
+To invent a formula for a new alchemical concoction or the plan for a new item of your design, you need to **Analyze** it as a **long-term project**. Most new formulas or designs will require an 8-segment progress clock to invent and learn. The player and the GM answer questions about the invention to define what it will do in play and what is required to create it (see below). The player records these answers in their notes for future reference.
 
 ### Creation Questions
 
@@ -2475,7 +2475,7 @@ Common alchemicals (see **Sample Creations** for more information) and ordinary 
 
 ## Crafting
 
-To craft something, spend one **downtime activity** to make a **Tinker** roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew's Tier, modified by the result of the roll (see the results in the next section).
+To craft something, spend one **downtime activity** to make a **Engineer** roll to determine the **quality level** of the item you produce. The base quality level is equal to your crew's Tier, modified by the result of the roll (see the results in the next section).
 
 The results are based on your crew's Tier because it indicates the overall quality of the workspace and materials you have access to. *If you do the work with the **Workshop** upgrade for your crew, your effective Tier level is one higher for this roll.*
 
@@ -2483,7 +2483,7 @@ The results are based on your crew's Tier because it indicates the overall quali
 
 ### CRAFTING ROLL
 
-&#x23E3; &nbsp; **1d** for each **Tinker** action dot.
+&#x23E3; &nbsp; **1d** for each **Engineer** action dot.
 
 &#x2295; &nbsp; **+1** quality per **Coin** spent.
 
